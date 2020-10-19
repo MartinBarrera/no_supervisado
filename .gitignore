@@ -1,0 +1,4 @@
+*.jpeg
+*.png
+.ipynb_checkpoints/
+temp-plot.html
